@@ -1,0 +1,13 @@
+
+k
+java:S3014"IRemove this use of "ThreadGroup". Prefer the use of "ThreadPoolExecutor".(ƒá´æüÿÿÿÿ8¾½øÇ1
+k
+java:S3014 "IRemove this use of "ThreadGroup". Prefer the use of "ThreadPoolExecutor".(İ„®Ûûÿÿÿÿ8¾½øÇ1
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(óé‡¹8À½øÇ1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£±¼Ÿ8Å½øÇ1
+{
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾8¦ÀøÇ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Æ‘³†8«ÀøÇ1
+{
+java:S2142,"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾8½ÀøÇ1
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.(›Óğ°şÿÿÿÿ8¾ÀøÇ1
