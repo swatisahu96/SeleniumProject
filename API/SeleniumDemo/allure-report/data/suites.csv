@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Aug 02 12:15:02 IST 2023","Wed Aug 02 12:15:22 IST 2023","19582","Default Suite","WebAutoDemo","org.example.xpathDemo","org.example.xpathDemo","locatorsDemo","locatorsDemo",""
+"passed","Sat Aug 05 16:36:38 IST 2023","Sat Aug 05 16:37:45 IST 2023","66994","All Test Suite","C:/Users/hp/IdeaProjects/API/WebAutoDemo","org.example.Demo1","org.example.Demo1","validLogin","validLogin"," TC#2 Verify positive flow- User able to login "
+"unknown","Sat Aug 05 16:36:37 IST 2023","Sat Aug 05 16:36:37 IST 2023","4","All Test Suite","C:/Users/hp/IdeaProjects/API/WebAutoDemo","org.example.Demo1","org.example.Demo1","InvalidLogin","InvalidLogin","#TC1 Verify that with Invalid username and valid password"
+"passed","Wed Aug 02 22:39:27 IST 2023","Wed Aug 02 22:40:02 IST 2023","35212","All Test Suite","Test1(All Methods)","org.example.Demo2","org.example.Demo2","locatorsDemo","locatorsDemo",""
+"broken","Sat Aug 05 16:38:11 IST 2023","Sat Aug 05 16:38:11 IST 2023","2","All Test Suite","C:/Users/hp/IdeaProjects/API/WebAutoDemo","org.example.Demo1","org.example.Demo1","tearDown","tearDown",""
+"broken","Sat Aug 05 16:33:56 IST 2023","Sat Aug 05 16:33:56 IST 2023","39","All Test Suite","C:/Users/hp/IdeaProjects/API/WebAutoDemo","org.example.Demo1","org.example.Demo1","setUp","setUp",""
