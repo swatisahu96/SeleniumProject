@@ -1,8 +1,0 @@
-
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(è÷Òä
-Z
-java:S2259"?A "NullPointerException" could be thrown; "s" is nullable here.(ÛşäÍøÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(¸•ç®
-N	java:S106"9Replace this use of System.out or System.err by a logger.(¼íâ’
-E
-java:S2201"*The return value of "length" must be used.(ÛşäÍøÿÿÿÿ

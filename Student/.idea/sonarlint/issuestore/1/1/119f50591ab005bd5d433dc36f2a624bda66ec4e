@@ -1,7 +1,0 @@
-
-c
-java:S2184"HCast one of the operands of this multiplication operation to a "double".(•­çûÿÿÿÿ
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(êÊûÿÿÿÿ
-P
-java:S1161":Add the "@Override" annotation above this method signature(°ø˜û
-S	java:S106"9Replace this use of System.out or System.err by a logger.(˜‡½¥ûÿÿÿÿ

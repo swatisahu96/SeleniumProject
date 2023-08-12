@@ -1,6 +1,0 @@
-
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(è÷Òä
-U
-java:S2259"?A "NullPointerException" could be thrown; "s" is nullable here.(²©­ý
->
-java:S2201"(The return value of "trim" must be used.(²©­ý

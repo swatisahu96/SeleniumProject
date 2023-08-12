@@ -1,9 +1,0 @@
-
-[	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ÑŒ´þ
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(è÷Òä
-c
-java:S2095"HUse try-with-resources or close this "FileReader" in a "finally" clause.(ÕÇƒ—øÿÿÿÿ
-Q
-java:S1854"6Remove this useless assignment to local variable "fr".(ÕÇƒ—øÿÿÿÿ
-B
-java:S1481"'Remove this unused "fr" local variable.(ÕÇƒ—øÿÿÿÿ
